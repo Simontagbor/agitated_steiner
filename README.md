@@ -12,4 +12,4 @@ remeber to use this pattern <em> https://{Personal Access Token}@github.com/{git
 
 <p>The folder should have a new README.md file, remember to push the new changes to remote.</p>
 
-<em>PS: the remote may be ahead so you might want to fetc or pull to make sure youre up to date</em>
+<em>PS: the remote may be ahead so you might want to fetch or pull to make sure youre up to date</em>
